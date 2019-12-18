@@ -1,0 +1,5 @@
+# C64 Studio Backup Directory
+bak/
+
+# C64 Studio Backup Files
+*.bak
